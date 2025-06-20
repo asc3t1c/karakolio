@@ -1,4 +1,4 @@
-# karakolio Wina eb3sh3
+# karakolio Wina 11 eb3sh3
 
 # Installing by using PowerShell as Administrator
 
