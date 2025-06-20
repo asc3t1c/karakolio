@@ -1,1 +1,4 @@
 # karakolio
+
+# Install
+irm  | iex
