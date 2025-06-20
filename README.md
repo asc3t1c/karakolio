@@ -1,6 +1,6 @@
-# karakolio
+# karakolio Wina eb3sh3
 
-# Install on PoweShell as Administrator
+# Installing by using PowerShell as Administrator
 ```
 irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio | iex
 ```
