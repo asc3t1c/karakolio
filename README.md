@@ -5,10 +5,10 @@
 # Installing by using PowerShell as Administrator
 
 ```cmd
-irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.ps1 | iex
+irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.win | iex
 ```
 - Optionally
 
 ```
-irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.win | iex
+irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.ps1 | iex
 ```
