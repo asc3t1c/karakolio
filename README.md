@@ -7,6 +7,8 @@
 ```cmd
 irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.ps1 | iex
 ```
+- Optionally
 
 ```
-irm  | iex
+irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.win | iex
+```
