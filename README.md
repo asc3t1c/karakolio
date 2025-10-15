@@ -10,5 +10,5 @@ irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakoli
 - Optionally
 
 ```
-irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.ps1 | iex
+powershell -Command "irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.ps1 | iex"
 ```
