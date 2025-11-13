@@ -4,6 +4,12 @@
 
 - [Link](https://www.mediafire.com/file/66r16vcq3r7ci4j/Win11_25H2_English_x64.iso)
 
+# Bypass account:
+```cmd
+Shift + F10
+start ms-cxh:localonly
+```
+
 - [developing](https://get.activated.win/)
 
 # Installing by using PowerShell as Administrator
