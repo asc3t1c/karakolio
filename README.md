@@ -7,6 +7,9 @@
 # Bypass account creation:
 ```cmd
 Shift + F10
+```
+- Type in CMD:
+```
 start ms-cxh:localonly
 ```
 
