@@ -4,7 +4,7 @@
 
 - [Link](https://www.mediafire.com/file/66r16vcq3r7ci4j/Win11_25H2_English_x64.iso)
 
-# Bypass account:
+# Bypass account creation:
 ```cmd
 Shift + F10
 start ms-cxh:localonly
