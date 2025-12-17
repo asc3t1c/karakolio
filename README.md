@@ -21,9 +21,5 @@ irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakoli
 ```
 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.win | Out-String)
 ```
-- Optionally
 
-```cmd
-powershell -Command "irm 'https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.ps1' | iex"
-```
 - [developing](https://get.activated.win/)
