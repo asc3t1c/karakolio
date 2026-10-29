@@ -26,7 +26,7 @@ Once finished, type `Set-ExecutionPolicy Restricted`
 Press Enter
 Type Exit
 
-Using PowerShell (as an administrator) in Windows 10, use the following command:
+Using PowerShell (as an administrator) in Windows 10, 11 use the following command to disable Microsoft Defender:
 ```cmd
 Set-MpPreference -DisableRealtimeMonitoring $true
 ```
