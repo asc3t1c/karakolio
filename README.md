@@ -15,6 +15,17 @@ start ms-cxh:localonly
 
 # Installing by using PowerShell as Administrator
 
+```
+- Open PowerShell as an Administrator
+Type Set-ExecutionPolicy Unrestricted
+Press Enter
+Type A
+- Run the PowerShell script
+Once finished, type Set-ExecutionPolicy Restricted
+Press Enter
+Type Exit
+```
+
 ```cmd
 irm https://raw.githubusercontent.com/asc3t1c/karakolio/refs/heads/main/karakolio.win | iex
 ```
