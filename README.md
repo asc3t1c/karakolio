@@ -17,11 +17,11 @@ start ms-cxh:localonly
 
 ```
 - Open PowerShell as an Administrator
-Type Set-ExecutionPolicy Unrestricted
+Type `Set-ExecutionPolicy Unrestricted`
 Press Enter
 Type A
 - Run the PowerShell script
-Once finished, type Set-ExecutionPolicy Restricted
+Once finished, type `Set-ExecutionPolicy Restricted`
 Press Enter
 Type Exit
 ```
